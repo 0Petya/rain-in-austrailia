@@ -136,3 +136,4 @@ dmypy.json
 # project
 data/
 images/
+*.db
